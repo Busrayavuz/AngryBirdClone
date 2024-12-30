@@ -32,11 +32,3 @@ Projeyi çalıştırmak için şu adımları izleyin:
 
 
 
-
-
-
-
-
-![Ekran Resmi 2025-12-30 15 56 31](https://github.com/user-attachments/assets/38c16670-d09f-4573-bc59-9b872c2026e8)
-
-
